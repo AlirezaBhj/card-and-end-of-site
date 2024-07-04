@@ -1,5 +1,3 @@
-// script.js
-
 document.addEventListener("DOMContentLoaded", () => {
     const totalSeconds = 21 * 3600 + 46 * 60 + 45; // Total seconds for the timer
     const timerElement = document.getElementById('timer');
