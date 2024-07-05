@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const totalSeconds = 21 * 3600 + 46 * 60 + 45; // Total seconds for the timer
+    const totalSeconds = 21 * 3600 + 46 * 60 + 45;
     const timerElement = document.getElementById('timer');
     const progressBar = document.querySelector('.progress-bar');
     const initialTotalSeconds = totalSeconds;
